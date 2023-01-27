@@ -1,5 +1,6 @@
 #### Year 3 Undergraduate CS student
 #### Python, C++, Java, Go
+#### Chinese, English, Japanese
 
 
 <!--
