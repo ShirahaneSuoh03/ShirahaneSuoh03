@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Year 3 Undergraduate CS student
+#### Python, C++, Java, Go
+
 
 <!--
 **ShirahaneSuoh03/ShirahaneSuoh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
